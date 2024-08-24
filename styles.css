@@ -39,3 +39,9 @@
     width: 100%;
     border-radius: 95%;  
    }
+
+   p {
+     margin: 100px 600px;
+     font-size: 23px;
+     font-display: inherit;
+   }
