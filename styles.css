@@ -7,10 +7,6 @@
    body * {
     font-family: 'inter', sans-serif;
     line-height: 160%;
-   }
-
-   header {
-    padding-top: 38px;
      margin: 0;
      padding: 0;
      box-sizing: border-box;
